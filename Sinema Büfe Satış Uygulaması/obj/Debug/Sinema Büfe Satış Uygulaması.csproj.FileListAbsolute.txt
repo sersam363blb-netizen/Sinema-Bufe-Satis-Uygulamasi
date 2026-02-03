@@ -1,0 +1,22 @@
+D:\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema Büfe Satış Uygulaması.csproj.AssemblyReference.cache
+D:\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema_Büfe_Satış_Uygulaması.Form1.resources
+D:\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema_Büfe_Satış_Uygulaması.Properties.Resources.resources
+D:\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema Büfe Satış Uygulaması.csproj.GenerateResource.cache
+D:\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema Büfe Satış Uygulaması.csproj.CoreCompileInputs.cache
+D:\C Sharp  Ders\Sinema Büfe Satış Uygulaması\bin\Debug\Sinema Büfe Satış Uygulaması.exe.config
+D:\C Sharp  Ders\Sinema Büfe Satış Uygulaması\bin\Debug\Sinema Büfe Satış Uygulaması.exe
+D:\C Sharp  Ders\Sinema Büfe Satış Uygulaması\bin\Debug\Sinema Büfe Satış Uygulaması.pdb
+D:\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema Büfe Satış Uygulaması.exe
+D:\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema Büfe Satış Uygulaması.pdb
+D:\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema Büfe Satış Uygulaması.exe.config
+D:\Ders\Bilgisayar\C Sharp  Ders\Sinema Büfe Satış Uygulaması\bin\Debug\Sinema Büfe Satış Uygulaması.exe.config
+D:\Ders\Bilgisayar\C Sharp  Ders\Sinema Büfe Satış Uygulaması\bin\Debug\Sinema Büfe Satış Uygulaması.exe
+D:\Ders\Bilgisayar\C Sharp  Ders\Sinema Büfe Satış Uygulaması\bin\Debug\Sinema Büfe Satış Uygulaması.pdb
+D:\Ders\Bilgisayar\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema Büfe Satış Uygulaması.csproj.AssemblyReference.cache
+D:\Ders\Bilgisayar\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema Büfe Satış Uygulaması.exe.config
+D:\Ders\Bilgisayar\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema_Büfe_Satış_Uygulaması.Form1.resources
+D:\Ders\Bilgisayar\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema_Büfe_Satış_Uygulaması.Properties.Resources.resources
+D:\Ders\Bilgisayar\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema Büfe Satış Uygulaması.csproj.GenerateResource.cache
+D:\Ders\Bilgisayar\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema Büfe Satış Uygulaması.csproj.CoreCompileInputs.cache
+D:\Ders\Bilgisayar\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema Büfe Satış Uygulaması.exe
+D:\Ders\Bilgisayar\C Sharp  Ders\Sinema Büfe Satış Uygulaması\obj\Debug\Sinema Büfe Satış Uygulaması.pdb
